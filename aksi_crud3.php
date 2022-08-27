@@ -9,7 +9,8 @@ if (isset($_POST['bsimpan'])) {
                                     VALUES('$_POST[tnilai_pembimbing_lapangan]',
                                             '$_POST[tnilai_pembimbing_kp]',
                                             '$_POST[tnilai_penguji]',
-                                            '$_POST[tbukti_nilai_pembimbing_lapangan]')");
+                                            '$_POST[tbukti_nilai_pembimbing_lapangan]')
+                                            ");
     if ($simpan) {
         echo "<script>
                 alert('Simpan data succes!');

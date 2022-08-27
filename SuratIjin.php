@@ -64,12 +64,12 @@
                 <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
                         <a class="collapse-item" href="buttons.html">Mahasiswa</a>
-                        <a class="collapse-item" href="cards.html">Pendaftaran KP</a>
+                        <a class="collapse-item" href="pendaftaran-kp.php">Pendaftaran KP</a>
                         <a class="collapse-item" href="SuratIjin.php">Surat Izin KP</a>
                         <a class="collapse-item" href="lembar-kerja.php">Lembar Kerja KP</a>
                         <a class="collapse-item" href="pendaftaranujian.php">Pendaftaran Ujian KP</a>
-                        <a class="collapse-item" href="cards.html">Jadwal Ujian KP</a>
-                        <a class="collapse-item" href="cards.html">Nilai</a>
+                        <a class="collapse-item" href="jadwal-ujian.php">Jadwal Ujian KP</a>
+                        <a class="collapse-item" href="mengunggahnilai.php">Nilai</a>
                     </div>
                 </div>
             </li>
@@ -164,6 +164,7 @@
 
                 <!-- Begin Page Content -->
                 <div class="container-fluid">
+                    <h1><b>SURAT IZIN</b></h1>
 
                 <body>
 <a href="Nomor.docx" download='image' class="download-btn">Download

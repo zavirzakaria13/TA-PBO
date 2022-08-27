@@ -245,7 +245,7 @@ include "koneksi3.php";
 
                     <div class="mb-3">
                       <label class="form-label">Nilai Pembimbing KP</label>
-                      <input type="file" class="form-control" name="tniai_pembimbing_kp" value="<?= $data["niai_pembimbing_kp"] ?>" placeholder="Masukkan File!">
+                      <input type="file" class="form-control" name="tnilai_pembimbing_kp" value="<?= $data["nilai_pembimbing_kp"] ?>" placeholder="Masukkan File!">
                     </div>
 
                     <div class="mb-3">
@@ -255,7 +255,7 @@ include "koneksi3.php";
 
                     <div class="mb-3">
                       <label class="form-label">Bukti Nilai Pembimbing lapangan</label>
-                      <input type="file" class="form-control" name="tBukti Nilai Pembimbing lapangan" value="<?= $data["bukti_nilai_pembimbing_lapangan"] ?>" placeholder="Masukkan File!">
+                      <input type="file" class="form-control" name="tbukti_nilai_pembimbing_lapangan" value="<?= $data["bukti_nilai_pembimbing_lapangan"] ?>" placeholder="Masukkan File!">
                     </div>
 
                     ...
